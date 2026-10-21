@@ -1,0 +1,5 @@
+# Persönliche Projektplanung (Drive-IDs, Lebensbereiche) – bleibt bewusst lokal,
+# weil das Repository für GitHub Pages öffentlich ist.
+CLAUDE.md
+.claude/
+__pycache__/

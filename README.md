@@ -32,7 +32,9 @@ Ein Login hält ca. 1 Stunde; danach reicht ein Tipp auf „Weiter mit Google“
 
 ## Aufs Handy bringen
 
-Android installiert PWAs nur von einer **HTTPS**-Adresse (localhost geht nur am PC). Geplant: kostenloses Hosting z. B. über GitHub Pages; die Adresse dann in Schritt 4 oben als JavaScript-Quelle ergänzen. In Chrome auf Android: Menü → **App installieren**.
+Die App läuft über GitHub Pages unter **<https://nilsbischoff17-dev.github.io/dashboard/>** (veröffentlicht automatisch jeden Push auf `main`, Dauer ca. 1 Minute). Diese Adresse ist im OAuth-Client als JavaScript-Quelle `https://nilsbischoff17-dev.github.io` eingetragen.
+
+In Chrome auf Android: Adresse öffnen → anmelden → Menü ⋮ → **App installieren**.
 
 ## Aufbau
 
